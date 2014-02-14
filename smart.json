@@ -1,0 +1,9 @@
+{
+  "packages": {
+    "spin": {},
+    "iron-router": {},
+    "moment": {},
+    "bootstrap-3": {},
+    "font-awesome": {}
+  }
+}
