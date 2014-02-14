@@ -2,10 +2,11 @@
 
 a minimalistic meteor bootstrap boiler plate
 
-# dependencies
-npm install -g meteorite
- or
-sudo -H npm install -g meteorite
+# dependencies 
+
+meteorite
+
+# packages
 
 mrt remove autopublish
 
